@@ -1,4 +1,4 @@
-# DVAPI Damn Vulnerable API
+# DVAPI Damn Vulnerable API This is a copy for a POC
 
 ![](images/logo.png)
 
